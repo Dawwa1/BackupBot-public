@@ -10,7 +10,9 @@ Here are the commands that [Bot Name] currently supports:
 - `!restore <channel: optional>` - Restores the channel given or current channel if none.
 - `!list` - Lists all the current channels that you have backed up and the date that it was last backed up
 
+## 🎉 Invite
 
+To invite the bot to your server, **[click here](https://github.com/Dawwa1/BackupBot-public)!**
 
 ## 📞 Support
 
