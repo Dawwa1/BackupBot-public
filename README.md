@@ -12,7 +12,7 @@ Here are the commands that [Bot Name] currently supports:
 
 ## 🎉 Invite
 
-To invite the bot to your server, **[click here](https://github.com/Dawwa1/BackupBot-public)!**
+To invite the bot to your server, **[click here](https://discord.com/api/oauth2/authorize?client_id=1075599896742207590&permissions=2147552256&scope=bot)!**
 
 ## 📞 Support
 
